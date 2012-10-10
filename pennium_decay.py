@@ -24,6 +24,6 @@ while 'undecayed' in pennium_decayed:
                 pennium_decayed[i] = 'decayed'
     
     half_lives += 1
-    sleep(1)  # simulate actual half-life time ;p
+    sleep(1.5)  # simulate actual half-life time ;p
     print '%i Half-Lives:' % (half_lives)
     print Counter(pennium_decayed)
