@@ -18,4 +18,4 @@ Notes
 -----
 
 * The rate you get from Part 1 Trial 1 is insignificant because this is pseudo-first-order and this calculation doesn't factor in B yet?
-* The concentration of is never given to you and it doesn't matter because your calculations are done with NaOCl because that's reactant B
+* The concentration of dye is never given to you and it doesn't matter because your calculations are done with NaOCl because that's reactant B
